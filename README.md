@@ -1,7 +1,14 @@
-# NFT Marketplace - Showcase
-![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
+## Frontend Landing Page 👨‍💻
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+[![](https://img.shields.io/badge/Gmail-lionshi2012%40gmail.com-red)](mailto:lionshi2012@gmail.com)
 
-Master React Native by building a modern NFT Marketplace iOS and Android #ReactNative Application in one video! Alongside developing the application, you'll also build a special landing page to showcase all of your app's features! Essentially, this is a full React Native Crash Course Tutorial video, enjoy!
+## :star: Features
+
+- Typical landing page.
+- Multi-devices responsive.
+- Landing page for react-native app ()
+
+## :star: Technical details
+
+- Frontend framework: HTML5, CSS
+- NPM managed workflows.
